@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&multiline=true&width=700&height=100&lines=systemctl+start+developer-loop;initializing+asynchronous+pipelines...;core_stack:+[C%2B%2B,+Python,+TS,+Postgres];current_target:+architecting+second+brains" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&multiline=true&width=700&height=170&lines=systemctl+start+developer-loop;initializing+asynchronous+pipelines...;core_stack:+[C%2B%2B,+Python,+TS,+Postgres];current_target:+architecting+second+brains" alt="Typing SVG" />
   </a>
 </p>
 
@@ -68,11 +68,98 @@ exploring:
   <h3>🛸 INGESTED ENGINES (FLAGSHIPS)</h3>
 </div>
 
-| Engine (Project) | Specifications & Architecture | System Status |
-| :--- | :--- | :---: |
-| **Recall** <br/> `Second Brain` | • Asynchronous 5-tier ingestion cascade (Modal/Groq/Gemini/Ollama) <br/>• pgvector HNSW cosine similarity index & pg_trgm GIN search <br/>• Louvain community clustering graph cron mapping Canvas nodes | `[● RUNNING]` <br/> `FastAPI` `React` `Postgres` `Redis` |
-| **ZenkaiFit** <br/> `Progressive Log` | • Neubrutalist workout progression PWA tracking volume <br/>• Zustand reactive local stores & cache-first Service Worker <br/>• Firestore ACID batch transactions | `[● ACTIVE]` <br/> `React` `Firebase` `Tailwind` |
-| **Amnesia Anchor** <br/> `Cognitive Loop` | • Voice loop detection for memory support <br/>• SpeechBrain ECAPA-TDNN speaker classification <br/>• Logistic Regression classification loop warning classifier | `[● COMPILED]` <br/> `Android` `Flask` `Python` |
+<br/>
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Module-Recall-10B981?style=for-the-badge&logo=cpu&logoColor=030712" />
+  <br/><br/>
+  <code>[ STATUS: ACTIVE ]</code><br/>
+  <code>[ TIER: 5-LEVEL AI ]</code><br/>
+  <code>[ LATENCY: <50ms ]</code>
+  <br/><br/>
+  <a href="https://github.com/PriyanshuG27/Recall">
+    <img src="https://img.shields.io/badge/Source-Code-3B82F6?style=flat-square" />
+  </a>
+</td>
+<td width="70%" valign="top">
+
+#### 🧠 Recall — AI Knowledge Graph & Second Brain
+*An asynchronous knowledge manager that auto-transcribes, embeds, and maps inputs into a real-time semantic constellation.*
+
+- 🚀 **5-Tier AI Cascade**: Async pipeline running Modal Whisper/Llama ➔ Groq ➔ Gemini ➔ Ollama ➔ bookmark fallback.
+- 🔍 **Hybrid Search**: pgvector HNSW cosine similarity index + pg_trgm GIN trigram fuzzy search.
+- 🌐 **Graph Topology**: Daily Louvain community clustering cron mapping nodes dynamically on HTML5 Canvas.
+
+`FastAPI` • `React.js` • `PostgreSQL (Neon)` • `Redis (Upstash)` • `Modal GPU`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Module-ZenkaiFit-3B82F6?style=for-the-badge&logo=activity&logoColor=ffffff" />
+  <br/><br/>
+  <code>[ STATUS: COMPILED ]</code><br/>
+  <code>[ TYPE: PROGRESSIVE PWA ]</code><br/>
+  <code>[ OFFLINE: ENABLED ]</code>
+  <br/><br/>
+  <a href="https://github.com/PriyanshuG27/Zenkai">
+    <img src="https://img.shields.io/badge/Source-Code-10B981?style=flat-square" />
+  </a>
+</td>
+<td width="70%" valign="top">
+
+#### 🏋️ ZenkaiFit — Neubrutalist Workout Progression PWA
+*A workout progression logging application designed to track user workouts, strength metrics, and volume metrics.*
+
+- ⚡ **Reactive State Engine**: Zustand reactive local stores synchronized with Firebase Auth.
+- 💾 **ACID Transactions**: Firestore batch writes maintaining secure user streak increments.
+- 📱 **PWA Architecture**: Cache-first Service Worker with asset precaching for sub-1.5s load times.
+
+`React.js` • `Firebase Firestore` • `Zustand` • `Tailwind CSS` • `Service Workers`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Module-Amnesia_Anchor-06B6D4?style=for-the-badge&logo=audio&logoColor=030712" />
+  <br/><br/>
+  <code>[ STATUS: STABLE ]</code><br/>
+  <code>[ SCOPE: COGNITIVE ]</code><br/>
+  <code>[ ENGINE: SPEECHBRAIN ]</code>
+  <br/><br/>
+  <a href="https://github.com/PriyanshuG27/Amnesia-Anchor">
+    <img src="https://img.shields.io/badge/Source-Code-3B82F6?style=flat-square" />
+  </a>
+</td>
+<td width="70%" valign="top">
+
+#### 🎙️ Amnesia Anchor — Speech Cognitive Loop Detector
+*An offline repeated-question detector application designed for individuals experiencing verbal memory loops.*
+
+- 🗣️ **Audio Classification**: SpeechBrain ECAPA-TDNN audio speaker embedding network.
+- 🧠 **Loop Detection**: sentence-transformers embedding similarity mapping (all-MiniLM-L6-v2).
+- 🤖 **ML Classifier**: Logistic Regression model classifying repetition patterns and triggering loops.
+
+`Android Kotlin` • `Flask` • `Python` • `SpeechBrain` • `scikit-learn`
+
+</td>
+</tr>
+</table>
 
 ---
 
