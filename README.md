@@ -192,10 +192,10 @@ exploring:
 
 ---
 
-<div align="center">
-  <h4>🐍 MEMORY GRID MONITOR</h4>
+<p align="center">
+  <strong>🐍 MEMORY GRID MONITOR</strong><br/>
   <img src="https://raw.githubusercontent.com/PriyanshuG27/PriyanshuG27/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+</p>
 
 ---
 
