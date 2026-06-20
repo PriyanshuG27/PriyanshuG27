@@ -208,7 +208,7 @@ exploring:
     <img src="https://img.shields.io/badge/linkedin_node-3B82F6?style=for-the-badge&logo=linkedin&logoColor=030712" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:pri2712gumber@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pri2712gumber@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email_port-06B6D4?style=for-the-badge&logo=gmail&logoColor=030712" />
   </a>
 </p>
