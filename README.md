@@ -105,7 +105,7 @@ exploring:
 <tr>
 <td width="30%" valign="top" align="center">
   <br/>
-  <img src="https://img.shields.io/badge/Module-ZenkaiFit-3B82F6?style=for-the-badge&logo=activity&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Module-Zenkai-3B82F6?style=for-the-badge&logo=activity&logoColor=ffffff" />
   <br/><br/>
   <code>[ STATUS: COMPILED ]</code><br/>
   <code>[ TYPE: PROGRESSIVE PWA ]</code><br/>
@@ -117,7 +117,7 @@ exploring:
 </td>
 <td width="70%" valign="top">
 
-#### 🏋️ ZenkaiFit — Neubrutalist Workout Progression PWA
+#### 🏋️ Zenkai — Neubrutalist Workout Progression PWA
 *A workout progression logging application designed to track user workouts, strength metrics, and volume metrics.*
 
 - ⚡ **Reactive State Engine**: Zustand reactive local stores synchronized with Firebase Auth.
