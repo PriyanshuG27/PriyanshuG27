@@ -204,11 +204,11 @@ exploring:
     <img src="https://img.shields.io/badge/git_shell-10B981?style=for-the-badge&logo=github&logoColor=030712" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/priyanshug27">
     <img src="https://img.shields.io/badge/linkedin_node-3B82F6?style=for-the-badge&logo=linkedin&logoColor=030712" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:pri2712gumber@gmail.com">
     <img src="https://img.shields.io/badge/email_port-06B6D4?style=for-the-badge&logo=gmail&logoColor=030712" />
   </a>
 </p>
